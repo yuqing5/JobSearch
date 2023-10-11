@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="JobRecommendationDatabase@database-1.ccqjmpj1oorz.us-west-2.rds.amazonaws.com" uuid="727b30e3-4963-4a9c-8abb-0df8d1106170">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://database-1.ccqjmpj1oorz.us-west-2.rds.amazonaws.com:3306/JobRecommendationDatabase</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JobSearch:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JobSearch</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JobSearch-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JobSearch:war exploded" />
+    </root>
+  </artifact>
+</component>
