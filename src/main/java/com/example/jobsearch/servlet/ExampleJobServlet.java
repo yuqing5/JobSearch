@@ -1,2 +1,4 @@
-package com.example.jobsearch.servlet;public class ExampleJobServlet {
+package com.example.jobsearch.servlet;
+
+public class ExampleJobServlet {
 }

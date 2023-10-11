@@ -1,2 +1,4 @@
-package com.example.jobsearch.servlet;public class HistoryServlet {
+package com.example.jobsearch.servlet;
+
+public class HistoryServlet {
 }

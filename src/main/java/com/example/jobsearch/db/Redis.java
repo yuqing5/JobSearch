@@ -1,2 +1,3 @@
-package com.example.jobsearch.db;public class Redis {
-}
+package com.example.jobsearch.db;
+
+

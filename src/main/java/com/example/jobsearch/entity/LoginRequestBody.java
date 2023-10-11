@@ -1,2 +1,11 @@
-package com.example.jobsearch.entity;public class LoginRequestBody {
+package com.example.jobsearch.entity;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class LoginRequestBody {
+    @JsonProperty("user_id")
+    public String userId;
+
+    public String password;
+
 }
+
